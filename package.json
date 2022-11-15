@@ -1,0 +1,21 @@
+{
+  "name": "t9-netstrada",
+  "version": "1.0.0",
+  "description": "T9 - Netstrada coding challenge #3",
+  "main": "challenge.js",
+  "scripts": {
+		"test": "jest"
+  },
+  "keywords": [
+    "coding",
+    "challenge",
+    "algorithm",
+    "t9",
+    "netstrada"
+  ],
+  "author": "Pvag",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
