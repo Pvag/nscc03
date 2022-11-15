@@ -10,4 +10,4 @@ Install the packages required for the tests to work: `npm i`.
 
 ### Run the tests
 
-To check your solutions, just run: `npm test`.
+To check your solution, just run: `npm test`.
